@@ -8,6 +8,6 @@ public class LOGINPAGE {
 	private WebElement Email;//Encapsulation
 	
 	@FindBy(id="password")
-	private WebElement Password;
+	private WebElement Password; //
 
 }

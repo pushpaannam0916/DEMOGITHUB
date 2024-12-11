@@ -9,5 +9,9 @@ public class LOGINPAGE {
 	
 	@FindBy(id="password")
 	private WebElement Password; //(password)
+	
+	cvb
 
 }
+
+
